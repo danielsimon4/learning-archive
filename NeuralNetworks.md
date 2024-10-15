@@ -1,4 +1,4 @@
-# Neual Networks
+# Neuarl Networks
 
 <br>
 
