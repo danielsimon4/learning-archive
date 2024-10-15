@@ -11,6 +11,8 @@
 | Update an Existing Database | ALTER DATABASE database_name; |
 | Delete an Existing Database | DROP DATABASE database_name; |
 
+<br>
+
 ### Table
 
 | Action | SQL |
