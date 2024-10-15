@@ -14,7 +14,7 @@
   column1 INT PRIMARY KEY,
   column2 VARCHAR(50),
   column3 DECIMAL(10, 2)
-);
+); |
 
 
 
