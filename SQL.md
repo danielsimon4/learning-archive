@@ -2,9 +2,7 @@
 
 ### Querying data from a table
 
-- Query all rows and columns from a table:
--
-- **SELECT * FROM `table`;**
+- Query all rows and columns from a table: <\t> **SELECT * FROM `table`;**
 
 - Query data in columns c1, c2 from a table
 
