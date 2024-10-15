@@ -30,3 +30,4 @@
 | - | - |
 | Query All Rows and Columns | SELECT * FROM table_name; |
 | Query Unique Values From a Column | SELECT DISTINCT column_name FROM table_name; |
+| Filter Rows Based On a Condition | SELECT * FROM table_name WHERE column_name > condition;
