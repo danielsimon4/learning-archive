@@ -6,7 +6,10 @@
 
 | Action | SQL |
 | - | - |
-| Create a New Database | CREATE DATABASE database_name; |
-| Select a Specific Database to Work With | USE database_name; |
+| Create a Database | CREATE DATABASE database_name; |
+| Select a Database | USE database_name; |
+| Update a Databse | ALTER DATABASE database_name; |
+| Delete an Existing Database | DROP DATABASE company; |
+
 
 
