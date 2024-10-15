@@ -4,7 +4,7 @@
 
 ### SQL Cheat Sheet
 
-
+| - | - |
 | Create a New Database | CREATE DATABASE database_name; |
 | Select an Existing Database to Work With | USE database_name; |
 | Update an Existing Database | ALTER DATABASE database_name; |
