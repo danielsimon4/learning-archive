@@ -2,11 +2,9 @@
 
 ### Querying Data from a Table
 
-| Action                                      | SQL Query                                    |
-|---------------------------------------------|----------------------------------------------|
-|---------------------------------------------|----------------------------------------------|
+| Action | SQL |
+|-|-|
 | Create a New Database | CREATE DATABASE database_name; |
-| Query specific columns from a table         | SELECT `c1`, `c2` FROM `table`;              |
-| Query data and filter rows with a condition | `SELECT c1, c2 FROM table WHERE condition;` |
+| Select a Specific Database to Work With | USE database_name; |
 
 
