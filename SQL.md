@@ -28,6 +28,7 @@
 
 | Action | SQL |
 | - | - |
-| Query All Rows and Columns | SELECT * FROM table_name; |
-| Query Unique Values From a Column | SELECT DISTINCT column_name FROM table_name; |
-| Filter Rows Based On a Condition | SELECT * FROM table_name WHERE column_name > condition;
+| Return All Rows and Columns | SELECT * FROM table_name; |
+| Return Unique Values From a Column | SELECT DISTINCT column_name FROM table_name; |
+| Filter Rows Based On a Condition | SELECT * FROM table_name WHERE column_name > number;
+| Limit Number of Rows Returned | SELECT * FROM table_name LIMIT number;
