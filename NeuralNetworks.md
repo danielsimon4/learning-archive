@@ -1,4 +1,6 @@
-# 3Blue1Brown YouTube videos
+# Neual Networks
+
+### 3Blue1Brown YouTube videos
 
 A great visual introduction to how neural networks work.
 
@@ -7,13 +9,13 @@ A great visual introduction to how neural networks work.
 - [3Blue1Brown. (2017). YouTube. *What is backpropagation really doing? | Chapter 3, Deep Learning*](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
 - [3Blue1Brown. (2017). YouTube. *Backpropagation calculus | Chapter 4, Deep Learning*](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
 
-## Andrej Karpathy YouTube video
+### Andrej Karpathy YouTube video
 
 A clear explanation of how backpropagation and gradient descent work.
 
 - [Karpathy, Andrej. (2023). YouTube. *The spelled-out intro to neural networks and backpropagation: building micrograd*](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=0s)
 
-## Michael Nielsen Online Book
+### Michael Nielsen Online Book
 
 Introduction to neural networks, overfitting and convolutional neural networks by creating a handwritten digit recognizer.
 
