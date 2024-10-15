@@ -1,14 +1,11 @@
 # SQL
 
-### Querying data from a table
+### Querying Data from a Table
 
-- Query all rows and columns from a table: <\t> **SELECT * FROM `table`;**
+| Action                                      | SQL Query                                    |
+|---------------------------------------------|----------------------------------------------|
+| Query all rows and columns from a table    | `SELECT * FROM table;`                       |
+| Query specific columns from a table        | `SELECT c1, c2 FROM table;`                 |
+| Query data and filter rows with a condition | `SELECT c1, c2 FROM table WHERE condition;` |
 
-- Query data in columns c1, c2 from a table
-
-**SELECT c1, c2 FROM t;**
-
-
-- Query data and filter rows with a condition  **SELECT c1, c2 FROM t
-WHERE condition;**
 
