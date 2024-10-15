@@ -2,7 +2,7 @@
 
 <br>
 
-### Database
+### Database Level
 
 | Action | SQL |
 | - | - |
@@ -13,7 +13,7 @@
 
 <br>
 
-### Table
+### Table Level
 
 | Action | SQL |
 | - | - |
@@ -22,6 +22,11 @@
 | Update an Existing Table | ALTER TABLE table_name <br> ADD COLUMN column_name DATA_TYPE; |
 | Delete an Existing Table | DROP TABLE table_name; |
 
+<br>
 
+### Quering Data
 
-
+| Action | SQL |
+| - | - |
+| Query All Rows and Columns | SELECT * FROM table_name; |
+| Query Unique Values From a Column | SELECT DISTINCT column_name FROM table_name; |
