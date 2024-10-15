@@ -2,7 +2,7 @@
 
 <br>
 
-### SQL Cheat Sheet
+### Database
 
 | Action | SQL |
 | - | - |
@@ -10,6 +10,8 @@
 | Select an Existing Database to Work With | USE database_name; |
 | Update an Existing Database | ALTER DATABASE database_name; |
 | Delete an Existing Database | DROP DATABASE database_name; |
+
+### Table
 
 | Action | SQL |
 | - | - |
