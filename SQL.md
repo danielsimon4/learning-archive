@@ -1,5 +1,7 @@
 # SQL
 
+<br>
+
 ### Querying Data from a Table
 
 | Action | SQL |
